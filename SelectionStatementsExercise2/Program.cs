@@ -23,6 +23,9 @@ namespace SelectionStatementsExercise2
                 case "history":
                     Console.WriteLine("History can guide our future.");
                     break;
+                case "psychology":
+                    Console.WriteLine("Psychology is a mind trip!");
+                    break;
                 default:
                     Console.WriteLine("I love that. No education is ever wasted");
                     break;
